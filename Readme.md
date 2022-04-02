@@ -54,3 +54,4 @@ The following SAP Notes provide additional information around patch and mitigati
 - 3138881 - wdisp/additional_conn_close workaround for security SAP note 3123396
 
 
+https://www.shodan.io/search?query=server%3A+SAP+NetWeaver+Application+Server+country%3A%22US%22
